@@ -270,6 +270,7 @@ img{
     background-color: var(--home-color);
     box-shadow: 0 2px 6px rgba(65, 11, 16, .15);
     border-radius: 1rem;
+    margin-bottom: var(--mb-2);
 }
 
 .home__data{
